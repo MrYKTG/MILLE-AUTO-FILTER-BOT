@@ -10,9 +10,11 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Mephistodevil>Tʜɪs ᴘᴇʀsᴏɴ</a>
+✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://github.com/EvamariaTG>Eᴠᴀ ᴍᴀʀɪᴀ</a>
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᠰ TɢX</a>
 ✯ 𝙳𝙴𝚅1: <a href=https://t.me/A_s_w_i_n_01>『Dᴇᴠɪʟ࿐Tɢ』</a>
 ✯ 𝙳𝙴𝚅2: <a href=https://t.me/AFxSU>𝐂𝐫𝐚𝐳𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</a>
+✯ 𝙵𝚁𝙾𝙺𝙴𝙳 𝙵𝚁𝙾𝙼: <a href=https://github.com/Devil-Botz/Elsa>𝙴𝙻𝚂𝙰</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -22,7 +24,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- 𝙴𝙻𝚂𝙰 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
-<b>DEVS:</b>
+<b>Cʀᴇᴅɪᴛꜱ:</b>
 - <a href=https://t.me/cinemala_com1>𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
