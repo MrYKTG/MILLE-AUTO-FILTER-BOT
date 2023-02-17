@@ -53,8 +53,8 @@ NOR_IMG = environ.get('NOR_IMG', "https://te.legra.ph/file/550a415d1c3480b210ff1
 SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/b58f576fed14cd645d2cf.jpg")
 
 # Welcome area
-MELCOW_IMG = environ.get('MELCOW_IMG',"")
-MELCOW_VID = environ.get('MELCOW_VID',"https://te.legra.ph/file/7b8d7c62bdf8bad1984ac.mp4")
+MELCOW_IMG = environ.get('MELCOW_IMG',"https://te.legra.ph/file/a1ee055f31dd4831661ed.jpg")
+MELCOW_VID = environ.get('MELCOW_VID',"")
 
 
 
