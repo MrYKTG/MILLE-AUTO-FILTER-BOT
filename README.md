@@ -1,19 +1,21 @@
-g src="https://te.legra.ph/file/7a7c2d1c6ad4c7be50995.jpg" alt="Elsa">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+𝗠𝗜𝗟𝗟𝗜𝗘+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗜𝗟𝗟𝗜𝗘+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+<p align="center">
+  <img src="https://te.legra.ph/file/2280507324392b6eb3a50.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b>Elsa</b>
+  <b> 𝗠𝗜𝗟𝗟𝗜𝗘 𝐁𝐎𝐓</b>
 </h1>
 
-<a href="https://t.me/cinemala_com1">
+<a href="https://t.me/czdbotz_support">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
-[![Stars](https://img.shields.io/github/stars/Devil-Botz/Elsa?style=flat-square&color=yellow)](https://github.com/Devil-Botz/Elsa/stargazers)
-[![Forks](https://img.shields.io/github/forks/Devil-Botz/Elsa?style=flat-square&color=orange)](https://github.com/Devil-Botz/Elsa/fork)
-[![Size](https://img.shields.io/github/repo-size/Devil-Botz/Elsa?style=flat-square&color=green)](https://github.com/Devil-Botz/Elsa)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Devil-Botz/Elsa)   
-[![Contributors](https://img.shields.io/github/contributors/Devil-Botz/Elsa?style=flat-square&color=green)](https://github.com/Devil-Botz/Elsa/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Devil-Botz/Elsa/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Devil-Botz/Elsa.svg)](https://stars.medv.io/Devil-Botz/Elsa)
+[![Stars](https://img.shields.io/github/stars/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=yellow)](https://github.com/CrazyDeveloperTG/Doctor-Strange/stargazers)
+[![Forks](https://img.shields.io/github/forks/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=orange)](https://github.com/CrazyDeveloperTG/Doctor-Strange/fork)
+[![Size](https://img.shields.io/github/repo-size/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
+[![Contributors](https://img.shields.io/github/contributors/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/CrazyDeveloperTG/Doctor-Strange/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange.svg)](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange)
 ## Features
 
 - [x] Auto Filter
