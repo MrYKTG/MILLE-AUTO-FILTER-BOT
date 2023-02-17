@@ -1,20 +1,19 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/7a7c2d1c6ad4c7be50995.jpg" alt="Elsa">
+  <img src="https://telegra.ph/file/930ff28f8e22e70b00cfa.jpg" alt="Devil Botz">
 </p>
 <h1 align="center">
   <b>Elsa</b>
 </h1>
 
-<a href="https://t.me/cinemala_com1">
-  <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
+<p align="center">
+    <img src="https://img.shields.io/github/license/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="LICENSE" >
+    <img src="https://img.shields.io/github/contributors/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/issues/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Devil-Botz/Elsa?style=for-the-badge&logo=appveyor" alt="Stars">
+</p>
 
-[![Stars](https://img.shields.io/github/stars/Devil-Botz/Elsa?style=flat-square&color=yellow)](https://github.com/Devil-Botz/Elsa/stargazers)
-[![Forks](https://img.shields.io/github/forks/Devil-Botz/Elsa?style=flat-square&color=orange)](https://github.com/Devil-Botz/Elsa/fork)
-[![Size](https://img.shields.io/github/repo-size/Devil-Botz/Elsa?style=flat-square&color=green)](https://github.com/Devil-Botz/Elsa)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Devil-Botz/Elsa)   
-[![Contributors](https://img.shields.io/github/contributors/Devil-Botz/Elsa?style=flat-square&color=green)](https://github.com/Devil-Botz/Elsa/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Devil-Botz/Elsa/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Devil-Botz/Elsa.svg)](https://stars.medv.io/Devil-Botz/Elsa)
 ## Features
 
 - [x] Auto Filter
@@ -71,7 +70,7 @@
  
  Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
 
- Thanks To [Devil-Botz](https://github.com/Devil-Botz) Owner,Add more features 
+ Thanks To [Devil-Botz](https://github.com/Devil-Botz) Collaborator [Add Redirect feature,Error fixed, Add new features] 
 
 
 </details>
@@ -83,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Devil-Botz/Elsa">
+<a href="https://heroku.com/deploy?template=https://github.com/yedhu190/Elsa2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>
