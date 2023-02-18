@@ -67,7 +67,7 @@
 
 ## Cʀᴇᴅɪᴛs
 
- ORGINAL [REPO](https://github.com/Devil-Botz/Elsa)
+ This is a Elsa clone Project [REPO](https://github.com/Devil-Botz/Elsa)
 
  Thanks To [Devil-Botz](https://github.com/Devil-Botz) Contributor Add more features
 
