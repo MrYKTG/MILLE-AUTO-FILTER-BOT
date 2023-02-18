@@ -69,9 +69,9 @@
 
  ORGINAL [REPO](https://github.com/Devil-Botz/Elsa)
 
- Thanks To [Devil-Botz](https://github.com/Devil-Botz) Contributors,Add more features
+ Thanks To [Devil-Botz](https://github.com/Devil-Botz) Contributor Add more features
 
- Thanks To [Joelkb](https://github.com/Joelkb) Contributors [Add Redirect feature,Error fixed, Add new features]
+ Thanks To [Joelkb](https://github.com/Joelkb) Contributor [Add Redirect feature,Error fixed, Add new features]
 
  Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
 
