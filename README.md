@@ -64,7 +64,7 @@
 ### Optional Variables
 
 
- ### Thanks to 
+ ## Tʜᴀɴᴋs Tᴏ 
  - Thanks To Dan For His Awesome Library
  - Thanks To Mahesh For His Awesome Media-Search-bot
  - Thanks To Trojanz for Their Awesome Unlimited Filter Bot
