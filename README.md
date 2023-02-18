@@ -67,7 +67,7 @@
 
 ## Cʀᴇᴅɪᴛs
 
- This is a Elsa clone Project [REPO](https://github.com/Devil-Botz/Elsa)
+ This is a [ELSA](https://github.com/Devil-Botz/Elsa) clone Project
 
  Thanks To [Devil-Botz](https://github.com/Devil-Botz) Contributor Add more features
 
