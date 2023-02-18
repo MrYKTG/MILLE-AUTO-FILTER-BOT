@@ -73,7 +73,8 @@
  Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
 
  Thanks To [Devil-Botz](https://github.com/Devil-Botz) Owner,Add more features
- -Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+ 
+ -ORGINAL [Repo](https://github.com/Mahesh0253/Media-Search-bot)
 
 ## Tʜᴀɴᴋs Tᴏ 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
