@@ -64,6 +64,8 @@
 ### Optional Variables
 
 
+# Cʀᴇᴅɪᴛs
+
 ## Tʜᴀɴᴋs Tᴏ 
  - Thanks To Dan For His Awesome Library
  - Thanks To Mahesh For His Awesome Media-Search-bot
