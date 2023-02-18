@@ -16,7 +16,7 @@
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/Greymattersbot/EvaMaria2"> <img src="https://img.shields.io/github/repo-size/Greymattersbot/EvaMaria2?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/Greymattersbot/EvaMaria2/commits/Greymattersbot"> <img src="https://img.shields.io/github/last-commit/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-## Features
+## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs
 
 - [x] 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧
 - [x] 𝙈𝙖𝙣𝙪𝙖𝙡 𝙁𝙞𝙡𝙩𝙚𝙧
