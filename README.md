@@ -3,7 +3,7 @@
   <img src="https://te.legra.ph/file/0c37def109efc61f598d4.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> 𝗝𝗘𝗡𝗡𝗔 𝗢𝗿𝘁𝗲𝗴𝗮</b>
+  <b> Mɪʟʟɪᴇ Bᴏʙʙʏ Bʀᴏᴡɴ </b>
 </h1>
 
 <a href="https://t.me/CCHDMovie">
