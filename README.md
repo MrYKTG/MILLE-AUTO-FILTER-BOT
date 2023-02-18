@@ -9,13 +9,13 @@
 <a href="https://t.me/CCHDMovie">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
-[![Stars](https://img.shields.io/github/stars/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=yellow)](https://github.com/CrazyDeveloperTG/Doctor-Strange/stargazers)
-[![Forks](https://img.shields.io/github/forks/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=orange)](https://github.com/CrazyDeveloperTG/Doctor-Strange/fork)
-[![Size](https://img.shields.io/github/repo-size/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
-[![Contributors](https://img.shields.io/github/contributors/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/CrazyDeveloperTG/Doctor-Strange/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange.svg)](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange)
+src="https://img.shields.io/github/stars/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/network/members"> <img src="https://img.shields.io/github/forks/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2"> <img src="https://img.shields.io/github/repo-size/Greymattersbot/EvaMaria2?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Greymattersbot/EvaMaria2/commits/Greymattersbot"> <img src="https://img.shields.io/github/last-commit/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 ## Features
 
 - [x] 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧
