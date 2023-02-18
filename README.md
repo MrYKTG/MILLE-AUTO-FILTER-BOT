@@ -18,29 +18,29 @@
 [![Sparkline](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange.svg)](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange)
 ## Features
 
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats
-- [x] Spelling Check Feature
-- [x] File Store
-- [x] 📂 PM & Channel 
-- [x] Auto delete
-- [x] 2GB+File Support
-- [x] song video download
-- [x] gfilter
-- [x] group broadcast
-- [x] telegraph
-- [x] games
-- [x] ping
-- [x] pdf convert to voice
+- [x] 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧
+- [x] 𝙈𝙖𝙣𝙪𝙖𝙡 𝙁𝙞𝙡𝙩𝙚𝙧
+- [x] 𝙄𝙈𝘿𝘽
+- [x] 𝘼𝙙𝙢𝙞𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨
+- [x] 𝘽𝙧𝙤𝙖𝙙𝙘𝙖𝙨𝙩
+- [x] 𝙄𝙣𝙙𝙚𝙭
+- [x] 𝙄𝙈𝘿𝘽 𝙨𝙚𝙖𝙧𝙘𝙝
+- [x] 𝙄𝙣𝙡𝙞𝙣𝙚 𝙎𝙚𝙖𝙧𝙘𝙝
+- [x] 𝙍𝙖𝙣𝙙𝙤𝙢 𝙥𝙞𝙘𝙨
+- [x] 𝙞𝙙𝙨 𝙖𝙣𝙙 𝙐𝙨𝙚𝙧 𝙞𝙣𝙛𝙤
+- [x] 𝙎𝙩𝙖𝙩𝙨, 𝙐𝙨𝙚𝙧𝙨, 𝘾𝙝𝙖𝙩𝙨
+- [x] 𝙎𝙥𝙚𝙡𝙡𝙞𝙣𝙜 𝘾𝙝𝙚𝙘𝙠 𝙁𝙚𝙖𝙩𝙪𝙧𝙚
+- [x] 𝙁𝙞𝙡𝙚 𝙎𝙩𝙤𝙧𝙚
+- [x] 📂 𝙋𝙈 & 𝘾𝙝𝙖𝙣𝙣𝙚𝙡
+- [x] 𝘼𝙪𝙩𝙤 𝙙𝙚𝙡𝙚𝙩𝙚
+- [x] 2𝙂𝘽+𝙁𝙞𝙡𝙚 𝙎𝙪𝙥𝙥𝙤𝙧𝙩
+- [x] 𝙎𝙤𝙣𝙜 𝙫𝙞𝙙𝙚𝙤 𝙙𝙤𝙬𝙣𝙡𝙤𝙖𝙙
+- [x] 𝙂𝙛𝙞𝙡𝙩𝙚𝙧
+- [x] 𝙂𝙧𝙤𝙪𝙥 𝙗𝙧𝙤𝙖𝙙𝙘𝙖𝙨𝙩
+- [x] 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙥𝙝
+- [x] 𝙂𝙖𝙢𝙚𝙨
+- [x] 𝙋𝙞𝙣𝙜
+- [x] 𝙋𝙙𝙛 𝙘𝙤𝙣𝙫𝙚𝙧𝙩 𝙩𝙤 𝙫𝙤𝙞𝙘𝙚
 - [x] font
 - [x] translate
 - [x] PreDVD and CamRip Delete Mode
