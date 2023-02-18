@@ -64,9 +64,7 @@
 ### Optional Variables
 
 
-# Cʀᴇᴅɪᴛs
-<details>
-
+## Cʀᴇᴅɪᴛs
  Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
 
  Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter & Base repo
