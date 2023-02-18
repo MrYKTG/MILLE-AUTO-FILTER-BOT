@@ -63,16 +63,14 @@
 * `DELETE_CHANNELS` : you can delete multiple files by forwarding those files into a private channel. Firstly make a private channel, add your bot as admin, add that channel's ID as a variable named DELETE_CHANNELS and forward the files to that private channel and the bot will delete those files from its database. You can check logs to confirm whether the file is deleted from the bot's database or not.
 ### Optional Variables
 
-## Credits
-<details>
 
- Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
-
- Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter & Base repo
- 
- Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
-
- Thanks To [Devil-Botz](https://github.com/Devil-Botz) Collaborator [Add Redirect feature,Error fixed, Add new features] 
+ ### Thanks to 
+ - Thanks To Dan For His Awesome Library
+ - Thanks To Mahesh For His Awesome Media-Search-bot
+ - Thanks To Trojanz for Their Awesome Unlimited Filter Bot
+ - Thanks To EvaMaria Devs For Their AutoFIlterBot
+ - Thank To KD Bots
+ - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
 
 
 </details>
