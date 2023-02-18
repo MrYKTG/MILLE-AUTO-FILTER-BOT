@@ -62,7 +62,8 @@
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * `FILE_FORWARD` : File redirect to channel telegram channel link eg: https://t.me/**************
 ### Optional Variables
-
+* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 
 ## Cʀᴇᴅɪᴛs
  Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
