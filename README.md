@@ -66,16 +66,17 @@
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 
 ## Cʀᴇᴅɪᴛs
- -ORGINAL [REPO](https://github.com/Mahesh0253/Media-Search-bot)
+
+ ORGINAL [REPO](https://github.com/Mahesh0253/Media-Search-bot)
+
+ Thanks To [Devil-Botz](https://github.com/Devil-Botz) Owner,Add more features
+
+ Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
 
  Thanks To [Mahesh](https://github.com/Mahesh0253/Media-Search-bot) MediaSearch
 
  Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter & Base repo
  
- Thanks To [Joelkb](https://github.com/Joelkb) Collaborator [Add Redirect feature,Error fixed, Add new features]
-
- Thanks To [Devil-Botz](https://github.com/Devil-Botz) Owner,Add more features
-
 ## Tʜᴀɴᴋs Tᴏ 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
