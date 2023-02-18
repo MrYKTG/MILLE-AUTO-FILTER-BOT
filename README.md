@@ -74,7 +74,7 @@
 
  Thanks To [Devil-Botz](https://github.com/Devil-Botz) Owner,Add more features
  
- -ORGINAL [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+ -ORGINAL [REPO](https://github.com/Mahesh0253/Media-Search-bot)
 
 ## Tʜᴀɴᴋs Tᴏ 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
