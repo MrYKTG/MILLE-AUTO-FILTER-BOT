@@ -168,7 +168,7 @@ go build .
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 
+
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/Devil-Botz/Elsa-V3/blob/main/LICENSE)
