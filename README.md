@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+Mɪʟʟɪᴇ+Bᴏʙʙʏ+Bʀᴏᴡɴ+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗿𝗬𝗞+𝗕𝗢𝗧S!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+𝗠ɪʟʟɪᴇ+𝗕ᴏʙʙʏ+𝗕ʀᴏᴡɴ+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗿𝗬𝗞+𝗕𝗢𝗧S!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   <img src="https://te.legra.ph/file/475659a185d568a4702ea.jpg" alt="MKN BOTZ LOGO">
 </p>
