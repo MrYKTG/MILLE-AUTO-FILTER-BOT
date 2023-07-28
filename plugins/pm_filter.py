@@ -162,13 +162,16 @@ async def next_page(bot, query):
                     text=f"📂 {get_size(file.file_size)}",
                     callback_data=f'files_#{file.file_id}',
                 ),
-            ]
-            for file in files
+                ]
+                for file in files
         ]
-    try:
-        if settings['auto_delete']:
-            btn.insert(0, 
-                [
+    btn.insert(0, 
+        [
+            InlineKeyboardButton(f' ♀️ {search} ♀️ ', 'qinfo')
+        ]
+    )
+    btn.insert(1, 
+         [
              InlineKeyboardButton(f'📮 ɪɴꜰᴏ', 'reqinfo'),
              InlineKeyboardButton(f'📟 ᴍᴏᴠɪᴇ', 'minfo'),
              InlineKeyboardButton(f'🔶 sᴇʀɪᴇs', 'sinfo'),
@@ -199,14 +202,7 @@ async def next_page(bot, query):
                 InlineKeyboardButton(f" {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages"),
                 InlineKeyboardButton("𝓝𝓮𝔁𝓽 ⪼", callback_data=f"next_{req}_{key}_{n_offset}")
             ],
-            )
-    btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#files#{offset}#{req}"),
-        InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{req}")
-    ])
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-    ])
+        )
     try:
         await query.edit_message_reply_markup(
             reply_markup=InlineKeyboardMarkup(btn)
@@ -1182,28 +1178,22 @@ async def auto_filter(client, msg, spoll=False):
                     text=f"📂 {get_size(file.file_size)}",
                     callback_data=f'{pre}#{file.file_id}',
                 ),
-            ]
-            for file in files
+                ]
+                for file in files
         ]
-    try:
-        if settings['auto_delete']:
-            btn.insert(0, 
-                [
+    btn.insert(0, 
+        [
+            InlineKeyboardButton(f' ♀️ {search} ♀️ ', 'qinfo')
+        ]
+    )
+    btn.insert(1, 
+         [
              InlineKeyboardButton(f'📮 ɪɴꜰᴏ', 'reqinfo'),
              InlineKeyboardButton(f'📟 ᴍᴏᴠɪᴇ', 'minfo'),
              InlineKeyboardButton(f'🔶 sᴇʀɪᴇs', 'sinfo'),
              InlineKeyboardButton(f'🎁 ᴛɪᴘs', 'tinfo')
          ]
-        )
-
-    btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}#{message.from_user.id}"),
-        InlineKeyboardButton("! Lᴀɴɢᴜᴀɢᴇs !", callback_data=f"select_lang#{message.from_user.id}")
-    ])
-
-    btn.insert(0, [
-        InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
-    ])
+    )
 
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
