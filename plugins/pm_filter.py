@@ -200,10 +200,10 @@ async def next_page(bot, query):
     )
     btn.insert(1, 
          [
-             InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-             InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-             InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo'),
-             InlineKeyboardButton(f'ᴛɪᴘs', 'tinfo')
+             InlineKeyboardButton(f'ðŸ“® ÉªÉ´êœ°á´', 'reqinfo'),
+             InlineKeyboardButton(f'ðŸ“Ÿ á´á´á´ Éªá´‡', 'minfo'),
+             InlineKeyboardButton(f'ðŸ”¶ sá´‡Ê€Éªá´‡s', 'sinfo'),
+             InlineKeyboardButton(f'ðŸŽ á´›Éªá´˜s', 'tinfo')
          ]
     )
 
@@ -1247,10 +1247,10 @@ async def auto_filter(client, msg, spoll=False):
     )
     btn.insert(1, 
          [
-             InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-             InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-             InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo'),
-             InlineKeyboardButton(f'ᴛɪᴘs', 'tinfo')
+             InlineKeyboardButton(f'ðŸ“® ÉªÉ´êœ°á´', 'reqinfo'),
+             InlineKeyboardButton(f'ðŸ“Ÿ á´á´á´ Éªá´‡', 'minfo'),
+             InlineKeyboardButton(f'ðŸ”¶ sá´‡Ê€Éªá´‡s', 'sinfo'),
+             InlineKeyboardButton(f'ðŸŽ á´›Éªá´˜s', 'tinfo')
          ]
     )
 
