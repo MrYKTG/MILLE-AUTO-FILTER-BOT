@@ -1,44 +1,46 @@
-from googletrans import Translator
-from pyrogram import Client, filters
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
-from plugins.helpers.list import list
+import os
+from pyrogram import Client, filters, enums
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery
 
-@Client.on_message(filters.command(["tr"]))
-async def left(client,message):
-	if (message.reply_to_message):
-		try:
-			lgcd = message.text.split("/tr")
-			lg_cd = lgcd[1].lower().replace(" ", "")
-			tr_text = message.reply_to_message.text
-			translator = Translator()
-			translation = translator.translate(tr_text,dest = lg_cd)
-			hehek = InlineKeyboardMarkup(
-                                [
-                                    [
-                                        InlineKeyboardButton(
-                                            text=f"𝘔𝘰𝘳𝘦 𝘓𝘢𝘯𝘨 𝘊𝘰𝘥𝘦𝘴", url="https://cloud.google.com/translate/docs/languages"
-                                        )
-                                    ],
-				    [
-                                        InlineKeyboardButton(
-                                            "𝘊𝘭𝘰𝘴𝘦", callback_data="close_data"
-                                        )
-                                    ],
-                                ]
-                            )
-			try:
-				for i in list:
-					if list[i]==translation.src:
-						fromt = i
-					if list[i] == translation.dest:
-						to = i 
-				await message.reply_text(f"translated from {fromt.capitalize()} to {to.capitalize()}\n\n```{translation.text}```", reply_markup=hehek, quote=True)
-			except:
-			   	await message.reply_text(f"Translated from **{translation.src}** To **{translation.dest}**\n\n```{translation.text}```", reply_markup=hehek, quote=True)
-			
+@Client.on_message(filters.command(["json", 'js', 'showjson']))
+async def jsonify(_, message):
+    the_real_message = None
+    reply_to_id = None
 
-		except :
-			print("error")
-	else:
-			 ms = await message.reply_text("You can Use This Command by using reply to message")
-			 await ms.delete()
+    if message.reply_to_message:
+        the_real_message = message.reply_to_message
+    else:
+        the_real_message = message
+    try:
+        pk = InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        text="𝙲𝙻𝙾𝚂𝙴",
+                        callback_data="close_data"
+                    )
+                ]
+            ]
+        )
+        await message.reply_text(f"<code>{the_real_message}</code>", reply_markup=pk, quote=True)
+    except Exception as e:
+        with open("json.text", "w+", encoding="utf8") as out_file:
+            out_file.write(str(the_real_message))
+        reply_markup = InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        text="𝙲𝙻𝙾𝚂𝙴",
+                        callback_data="close_data"
+                    )
+                ]
+            ]
+        )
+        await message.reply_document(
+            document="json.text",
+            caption=str(e),
+            disable_notification=True,
+            quote=True,
+            reply_markup=reply_markup
+        )            
+        os.remove("json.text")
