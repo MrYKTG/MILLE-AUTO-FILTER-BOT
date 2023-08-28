@@ -608,13 +608,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('× 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣𝗦 ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('× ΔĐĐ Μ€ ŦØ ¥ØỮŘ ǤŘØỮƤŞ ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍 𝗦𝗘𝗔𝗥𝗖𝗛', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 Ş€ΔŘĆĦ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/C5CHD')
         ], [
-            InlineKeyboardButton('𝗛𝗘𝗟𝗣', callback_data='help'),
-            InlineKeyboardButton('𝗔𝗕𝗢𝗨𝗧', callback_data='about')
+            InlineKeyboardButton('Ħ€ŁƤ', callback_data='help'),
+            InlineKeyboardButton('ΔβØỮŦ', callback_data='about')
          ],[
             InlineKeyboardButton('ʙᴀᴄᴋ ᴛᴏ sᴛᴀʀᴛ', callback_data='surprise')
         ]]
