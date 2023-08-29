@@ -48,7 +48,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://graph.org/file/608f2d56da7335f2fcead.jpg https://graph.org/file/431d3a97559c61b376cd6.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/4e0a86c6a977f10cf6e01.mp4')).split()
 NOR_IMG = environ.get('NOR_IMG', "https://te.legra.ph/file/550a415d1c3480b210ff1.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/b58f576fed14cd645d2cf.jpg")
 
