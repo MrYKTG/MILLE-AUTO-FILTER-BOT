@@ -642,9 +642,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('▣ᴠɪᴅᴇᴏ▣', callback_data='video'),
             InlineKeyboardButton('▣ᴛ_ɢʀᴀᴘʜ▣', callback_data='tele'),
-            InlineKeyboardButton('▣ɴᴇxᴛ▣', callback_data='aswin')    
+            InlineKeyboardButton('ɴᴇxᴛ', callback_data='aswin')    
         ], [
-            InlineKeyboardButton('▣ʙᴀᴄᴋ▣', callback_data='start')      
+            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')      
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
@@ -684,7 +684,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
          ], [
              InlineKeyboardButton('▣ᴡʜᴏɪs▣', callback_data='whois'),
              InlineKeyboardButton('▣ᴜʀʟ_sʜᴏʀᴛ▣', callback_data='urlshort'),
-             InlineKeyboardButton('▣ɴᴇxᴛ▣', callback_data='aswins')  
+             InlineKeyboardButton('ɴᴇxᴛ', callback_data='aswins')  
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help')         
         ]]
@@ -722,9 +722,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],  [
              InlineKeyboardButton('▣ᴄᴏᴜɴᴛʀʏ▣', callback_data='country'),
              InlineKeyboardButton('▣ᴅᴇᴘʟᴏʏ▣', callback_data='deploy'),
-             InlineKeyboardButton('▣ʜᴏᴍᴇ▣', callback_data='start')
+             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start')
         ], [
-             InlineKeyboardButton('▣ʙᴀᴄᴋ▣', callback_data='aswin')
+             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
@@ -748,11 +748,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton('ŞŦΔŦỮŞ', callback_data='stats'),
+            InlineKeyboardButton('ŞØỮŘĆ€', callback_data='source')
         ], [
-            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('ĦØΜ€', callback_data='start'),
+            InlineKeyboardButton('ĆŁØŞ€', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
